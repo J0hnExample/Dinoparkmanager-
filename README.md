@@ -35,4 +35,4 @@ Das Spiel ist ein einzelnes React-Artifact (`.jsx`). Einfach in [claude.ai](http
 >
 > Dieses Projekt basiert auf meinem allerersten Programm aus dem Studium: *ProSaurier V.1.0*, geschrieben in C am 10.01.2016. Ein Terminal-basierter Dino-Park-Manager mit `struct`-Arrays, `gotoXY`-Cursor-Steuerung, `getch()`-Eingabe und Dateispeicherung über `fwrite`/`fread`. Die originalen Quelldateien (`zoo.c`, `lib.h`) liegen weiterhin im Repo.
 >
-> *By Sascha Athmer — seit 2016*
+
